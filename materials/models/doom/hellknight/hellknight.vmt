@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/hellknight/hellknight"
+	"$bumpmap" 	"models/doom/hellknight/hellknight_local"
+}

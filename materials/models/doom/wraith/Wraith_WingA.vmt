@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/wraith/Wraith_WingA"
+	"$alphatest" "1"
+}

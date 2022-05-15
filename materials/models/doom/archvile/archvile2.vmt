@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/archvile/archvile2"
+	"$bumpmap" 	"models/doom/archvile/archvile2_local"
+}

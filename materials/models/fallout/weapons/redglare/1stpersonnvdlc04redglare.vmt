@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/fallout/weapons/redglare/1stpersonnvdlc04redglare"
+	"$normalmap"     "models/fallout/weapons/redglare/1stpersonnvdlc04redglare_n"
+}

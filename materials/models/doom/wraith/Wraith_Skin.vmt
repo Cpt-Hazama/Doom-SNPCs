@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/wraith/Wraith_Skin"
+	"$bumpmap" 	"models/doom/wraith/Wraith_Skin_N"
+}

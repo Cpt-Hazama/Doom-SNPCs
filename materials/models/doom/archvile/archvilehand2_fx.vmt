@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/archvile/archvilehand2_fx"
+	"$translucent" "1"
+}

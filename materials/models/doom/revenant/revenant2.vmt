@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/revenant/revenant2"
+	"$bumpmap" 	"models/doom/revenant/revenant2_local"
+	"$translucent" "1"
+}

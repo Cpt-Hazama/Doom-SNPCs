@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/doom/wraith/WraithEyes"
+	"$alphatest" "1"
+	"$translucent" "1"
+}
